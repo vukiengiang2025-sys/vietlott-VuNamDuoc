@@ -1,0 +1,6 @@
+{
+  "name": "Vietlott Stat",
+  "description": "Thống kê & mô hình xác suất Vietlott Mega 6/45 và Power 6/55 từ dữ liệu JSONL",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
